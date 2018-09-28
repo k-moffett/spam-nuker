@@ -1,0 +1,14 @@
+.App {
+  height: 100%;
+  width: 100%;
+}
+
+#DataTable, .load-error {
+  position: relative;
+  top:100px;
+}
+
+.Paginator {
+  position: relative;
+  top: 100px;
+}

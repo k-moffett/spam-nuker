@@ -1,0 +1,26 @@
+#Header {
+    height: 75px;
+    width: 100%;
+    background: royalblue;
+    position: fixed;
+    z-index: 1;
+    color: white;
+    box-shadow: rgba(0,0,0,0.2) 0px 2px 3px, inset rgba(0,0,0,0.2) 0px -1px 2px;
+    z-index: 2;
+}
+
+#search-form {
+    display: flex;
+}
+
+.submit-btns {
+    height: 35px;
+    width: 25%;
+    margin: 2px 2px;
+    border: solid 1px rgb(0, 34, 128);
+    background-color: dodgerblue;
+    font-size: 11px;
+    position: relative;
+    bottom: 3px;
+    
+}

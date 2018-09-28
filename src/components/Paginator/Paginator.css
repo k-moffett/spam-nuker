@@ -1,0 +1,29 @@
+#Paginator {
+    position: relative;
+    top: 90px;
+    z-index: 1;
+}
+
+.paginator-btns {
+    height: 35px;
+    width: 5%;
+    border: solid 1px black;
+    font-size: 11px;
+    position: relative;
+    bottom: 3px;
+    text-align: center;
+}
+
+.paginator-btns-s {
+    height: 35px;
+    width: 10%;
+    border: solid 1px black;
+    font-size: 11px;
+    position: relative;
+    bottom: 3px;
+    text-align: center;
+}
+
+#currentPage {
+    background: rgba(30, 143, 255, 0.438);
+}

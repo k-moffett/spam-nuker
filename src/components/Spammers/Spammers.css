@@ -1,0 +1,42 @@
+#Spammers {
+    height: 475px;
+    width: 400px;
+    position: fixed;
+    top: 191px;
+    right: 0;
+    border: solid 1px gainsboro;
+    overflow-y: scroll;
+}
+
+#head {
+    text-align: center;
+    font-style: italic;
+}
+
+table {
+    height: 100%;
+    width: 100%;
+}
+
+tr {
+    height: 20%;
+}
+
+button {
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    font: inherit;
+    outline: inherit;
+}
+
+#nuke {
+    position: relative;
+    left: 87px;
+    border: solid 1px black;
+    background: dodgerblue;
+    border-radius: 5px;
+    color: white;
+}
+

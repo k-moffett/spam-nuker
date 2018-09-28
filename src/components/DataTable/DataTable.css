@@ -1,0 +1,16 @@
+#DataTable, table {
+    height: 100%;
+    width: 1000px;
+}
+
+.description {
+    height: 100px;
+    width: 400px;
+    overflow-y: scroll;
+}
+
+.title {
+    height: 100px;
+    width: 400px;
+    overflow-y: scroll;
+}
